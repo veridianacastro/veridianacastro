@@ -54,7 +54,7 @@ Sou apaixonada por aprendizado contínuo, ciência e desenvolvimento de projetos
 
 
 
-    <picture>
+    
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/veridianacastro/veridianacastro/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/veridianacastro/veridianacastro/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/veridianacastro/veridianacastro/output/github-contribution-grid-snake.svg">
