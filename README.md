@@ -1,4 +1,3 @@
-Markdown
 
 <p align="center">
   <img src="https://github.com/veridianacastro/imagens-perfil/blob/main/floral.png?raw=true" alt="Banner do Perfil">
