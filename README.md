@@ -12,7 +12,7 @@ Sou apaixonada por aprendizado contínuo, ciência e desenvolvimento de projetos
     <a href="https://www.instagram.com/vericamposs?igsh=cTdiOTh4c3RyMW9z">
         <img 
             <a href="https://instagram.com/veridianacastro" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-        />
+        
    
 </p>
 
